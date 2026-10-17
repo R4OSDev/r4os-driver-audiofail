@@ -4,7 +4,7 @@
 
 ## Package
 
-- Version: `0.1.0`
+- Version: `0.1.1`
 - Image target: `/R4OS/DRIVERS/AC97FAIL.R4D`
 - Image scope: `none`
 - Canonical project manifest: `module.R4MF`
